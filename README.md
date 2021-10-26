@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋 I am Shreejan!!
 
-<!--
-**Shreejan-35/Shreejan-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student, Developer, and Coder!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my competitive programming skills and Data Structures & Algorithms.
+- 🌱 I’m currently learning C++ and Data Structures & Algorithms.
+- 👯 I’m looking to collaborate on github.
+- 🤔 I’m looking for help with my projects and coding skills(which I upload in github).
+- 💬 Ask me about coding problems.
+- 📫 How to reach me: Through my gmail - dolaishreejan@gmail.com
+- 😄 Pronouns: English.
+- ⚡ Fun fact: I am reading in class 9 and know C/C++.
+- My first language python.(Easy to learn but I am not intereseted in it because I want to do some competitive programming.)
+
+
+### Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C/C.png"/>][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+### Languages:
+- ## C
+- ## C++
+- ## Python(Upto some advance topics but not done classes and objects.)
+
+<br />
+<br />
