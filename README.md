@@ -24,11 +24,11 @@
 
 <br/><br/>
 ### Languages:
-- # C
-- # C++
-- # Python(Upto some advance topics but not done classes and objects.)
-- # Javascript(basic)
-- # HTML & CSS
+- C 
+- C++
+- Python(Upto some advance topics but not done classes and objects.)
+- Javascript(basic)
+- HTML & CSS
 
 <br />
 <br />
