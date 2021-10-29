@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreejan Dolai!!</h1>
 <h3 align="center">I am student and a hobbyist coder & developer.</h3>
 
-- 🔭 I’m currently working on **my project CommandConsole.**
+- 🔭 I’m currently working on **my programming skills.**
 
 - 🌱 I’m currently learning **C++ and data structures & algorithms.**
 
