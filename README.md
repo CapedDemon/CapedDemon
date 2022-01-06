@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my programming skills.**
 
-- 🌱 I’m currently learning **C++ and data structures & algorithms.**
+- 🌱 I’m currently learning **ALL**
 
 - 👯 I’m looking to collaborate on **Github**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **on coding problems.**
 
-- 📫 How to reach me **Dolaishreejan@gmail.com**
+- 📫 How to reach me **by mail - Dolaishreejan@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
