@@ -21,7 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreejan-35&" alt="shreejan-35" /></p>
 
-<a href="https://github.com/Shreejan-35">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreejan-35&show_icons=true&theme=light&line_height=27" alt="Shreejan's github stats"/>
-</a>
+![Profile views](https://gpvc.arturio.dev/Shreejan-35) 
 
