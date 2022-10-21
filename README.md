@@ -1,7 +1,9 @@
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<br/>
 
 <h1 align="center">Hi 👋, I'm Shreejan Dolai!!</h1>
+<div align="center"><img src ="https://github.com/Shreejan-35/Shreejan-35/blob/main/giphy%20(1).webp" width="100px"></div>
 <h3 align="center">I am student and also a coder & developer.</h3>
 <div align="center">
 <ul>
