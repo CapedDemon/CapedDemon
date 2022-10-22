@@ -3,7 +3,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Shreejan Dolai!!</h1>
-<div align="center"><img src ="https://github.com/Shreejan-35/Shreejan-35/blob/main/giphy%20(1).webp" width="100px"></div>
+<div align="center" style="border-radius='5px'"><img src ="https://github.com/Shreejan-35/Shreejan-35/blob/main/giphy%20(1).webp" width="100px"></div>
 <h3 align="center">I am student and also a coder & developer.</h3>
 <div align="center">
 <ul>
