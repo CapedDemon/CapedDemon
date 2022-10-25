@@ -25,12 +25,12 @@
 ## Github Stats
 | Stats                                                                                                                                       | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Shreejan-35's github stats](https://github-readme-stats.vercel.app/api?username=Shreejan-35&show_icons=true&theme=radical&include_all_commits=true) | ![Shreejan-35's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreejan-35&theme=radical&layout=compact) |
+| ![CapedDemon's github stats](https://github-readme-stats.vercel.app/api?username=CapedDemon&show_icons=true&theme=radical&include_all_commits=true) | ![CapedDemon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CapedDemon&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreejan-35"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CapedDemon"></img>
 
 # Achievements
 [![@shreejan_35's Holopin board](https://holopin.io/api/user/board?user=shreejan_35)](https://holopin.io/@shreejan_35)
 
-![Profile views](https://gpvc.arturio.dev/Shreejan-35) 
+![Profile views](https://gpvc.arturio.dev/CapedDemon) 
 
