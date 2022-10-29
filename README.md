@@ -37,5 +37,9 @@
 [![@shreejan_35's Holopin board](https://holopin.io/api/user/board?user=shreejan_35)](https://holopin.io/@shreejan_35)
 [![trophy](https://github-profile-trophy.vercel.app/?username=CapedDemon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+# Github Activity Graph
+
+[![CapedDemon's github activity graph](https://activity-graph.herokuapp.com/graph?username=CapedDemon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Profile views](https://gpvc.arturio.dev/CapedDemon) 
 
