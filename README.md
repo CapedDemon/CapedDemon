@@ -31,6 +31,7 @@
 
 # Achievements
 [![@shreejan_35's Holopin board](https://holopin.io/api/user/board?user=shreejan_35)](https://holopin.io/@shreejan_35)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CapedDemon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/CapedDemon) 
 
