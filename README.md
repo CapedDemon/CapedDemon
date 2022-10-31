@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Shreejan+Dolai....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Shreejan+Dolai+👨‍💻;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <div align="center" style="border-radius='5px'"><img src ="https://github.com/Shreejan-35/Shreejan-35/blob/main/giphy%20(1).webp" width="100px"></div>
